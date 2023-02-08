@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @projectfinalaudio
-- 👀 I’m interested in Application Security
-- 🌱 I’m currently learning C++
+Backend Developer
